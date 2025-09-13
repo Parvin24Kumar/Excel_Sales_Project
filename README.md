@@ -42,7 +42,7 @@ Customer segmentation & targeting
 Profit optimization
 Regional growth planning
 
-Dashboard Preview
+Dashboard Preview - 
 [Dashboard Preview](http://github.com/Parvin24Kumar/Excel_Sales_Project/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
