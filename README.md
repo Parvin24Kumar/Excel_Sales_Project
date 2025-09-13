@@ -35,14 +35,13 @@ Certain products generate high revenue but low profit, highlighting cost issues.
 A small group of top customers contribute disproportionately to total revenue.
 Seasonal sales patterns can be leveraged for marketing and inventory planning.
 
-Dashboard Preview
-
-
 Business Impact
 This project demonstrates how sales data can be transformed into actionable insights, helping businesses with:
 Strategic decision-making
 Customer segmentation & targeting
-
 Profit optimization
+
+Dashboard Preview
+https://github.com/Parvin24Kumar/Excel_Sales_Project/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 Regional growth planning
