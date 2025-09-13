@@ -44,6 +44,6 @@ Regional growth planning
 
 Dashboard Preview
 
-Show what the dashboard looks like. - l[Alt_text]([https://github.com/username/repo/assets/image.png](https://github.com/Parvin24Kumar/Excel_Sales_Project/blob/main/Snapshot%20of%20the%20Dashboard.png))
+Show what the dashboard looks like. ([https://github.com/username/repo/assets/image.png](https://github.com/Parvin24Kumar/Excel_Sales_Project/blob/main/Snapshot%20of%20the%20Dashboard.png))
 Example: 1[Dashboard Preview](http://github.com/Parvin24Kumar/Excel_Sales_Project/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
